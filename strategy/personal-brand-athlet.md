@@ -24,7 +24,7 @@ Für eine ausgewogene Personal Brand braucht es alle drei.
 ## 3. Zeitplanung
 Der Tipp: Jeden Tag eine Stunde für Content blocken.
 
-**Mein Setup:** Freitag ist Batch-Tag (4h, siehe [Rhythmus](rhythmus.md)). Unter der Woche nur kurz Material aufnehmen (Training, Alltag), nicht produzieren. So bleibt es auch in Prüfungsphasen machbar.
+**Mein Setup:** Täglich ca. 1 Stunde, jedes Video wird am selben Tag fertig. An schlechten Tagen mindestens 15 Minuten, Freitag als Puffer. Details in [Rhythmus](rhythmus.md).
 
 ## Verlauf
 - 2026-10: Erste Version

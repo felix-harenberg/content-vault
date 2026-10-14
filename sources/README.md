@@ -6,7 +6,7 @@ Zusammenfassungen von Kursen, Büchern, Videos, Creators. **In eigenen Worten**,
 
 ```markdown
 ---
-typ: kurs | buch | video | podcast | creator
+typ: kurs | buch | video | podcast | creator | liste
 autor:
 link:
 ---
@@ -20,4 +20,4 @@ link:
 
 ## Index
 
-_Noch keine Einträge._
+- [Hook-Vorlagen-Liste](hook-vorlagen-liste.md): ~980 englische Hook-Templates, Kategorien und was ich davon übernehme

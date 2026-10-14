@@ -25,4 +25,4 @@ post: <link>
 
 ## Index
 
-_Noch keine Einträge._
+- [Framework: Brain Damage Explainer](framework-brain-damage-explainer.md): Extrem vereinfachte Hyrox-Erklärungen, max. 5 Wörter pro Satz

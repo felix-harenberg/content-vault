@@ -1,16 +1,18 @@
 # Hooks
 
-Hook-Formeln (Muster) und konkrete Beispiele. Eine Datei pro Formel, Beispiele darin sammeln.
+Hook-Formeln und konkrete Beispiele. Eine Datei pro Hook-Typ, darin Formeln, Beispiele und eine Tabelle mit echten Ergebnissen.
 
 ## Vorlage
 
 ```markdown
-# Name der Formel
+# Hook-Typ
 
-**Muster:** <z.B. "Alle sagen X. Falsch.">
 **Warum es stoppt:**
 **Wann einsetzen:**
 **Overused?** ja / nein / bald
+
+## Formeln
+- ...
 
 ## Beispiele
 | Hook | Post | Views | Hold-Rate | Notiz |
@@ -19,4 +21,8 @@ Hook-Formeln (Muster) und konkrete Beispiele. Eine Datei pro Formel, Beispiele d
 
 ## Index
 
-_Noch keine Einträge._
+- [Mythos brechen / Kontroverse](mythos-brechen.md): Mein stärkster Typ, passt direkt zur Hyrox-These
+- [Vergleich](vergleich.md): A gegen B, funktioniert auch ohne Ton
+- [Storytelling](storytelling.md): Offener Spannungsbogen, für Renn-Recaps und Entscheidungen
+- [Autorität](autoritaet.md): Erst der Beweis, dann die Methode
+- [Edukativ](edukativ.md): Konkreter Nutzen, nur mit Spannung kombiniert

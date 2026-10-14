@@ -17,5 +17,5 @@
 - "Ich hab kein einziges Mal Sled Push trainiert. Das ist mein Ergebnis."
 - "Ziel war sub 1:15. Es lief nicht."
 
-| Hook | Post | Views | Hold-Rate | Notiz |
-|---|---|---|---|---|
+## Belegt in
+_Links zu Wochenrückblicken, in denen dieser Hook-Typ aufgefallen ist._

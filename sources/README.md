@@ -20,4 +20,5 @@ link:
 
 ## Index
 
+- [Cialdini: Influence](cialdini-influence.md): Die 7 Prinzipien der Überzeugung, noch nicht gelesen
 - [Hook-Vorlagen-Liste](hook-vorlagen-liste.md): ~980 englische Hook-Templates, Kategorien und was ich davon übernehme

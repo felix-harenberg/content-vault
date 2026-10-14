@@ -21,5 +21,5 @@
 - "Du brauchst kein Hyrox-Training. Du brauchst Laufen."
 - "Wall Balls üben? Verschwendete Zeit."
 
-| Hook | Post | Views | Hold-Rate | Notiz |
-|---|---|---|---|---|
+## Belegt in
+_Links zu Wochenrückblicken, in denen dieser Hook-Typ aufgefallen ist._

@@ -1,6 +1,6 @@
 # Research
 
-Fakten, Studien und Argumente zu Fitness/Hyrox-Themen, die Content substanzieller machen. Eine Datei pro Thema.
+Fakten, Studien und Argumente, die Content substanzieller machen: Fitness/Hyrox und Psychologie für Content. Eine Datei pro Thema.
 
 **Jede Aussage braucht eine Quelle.** Keine Quelle, kein Eintrag.
 
@@ -21,4 +21,4 @@ Fakten, Studien und Argumente zu Fitness/Hyrox-Themen, die Content substanzielle
 
 ## Index
 
-_Noch keine Einträge._
+- [Psychologie für Content](psychologie/): 8 Effekte für Hooks und Storytelling, mit Quellen und Grenzen

@@ -8,5 +8,7 @@ When adding content:
 - Use the template from the folder's README. Don't invent numbers; missing data → status `hypothese` or leave the field empty.
 - One file per idea. Before creating a new file, check whether an existing one covers it and extend that instead.
 - Update the `## Index` in the folder's README (newest first, one line: link + one-sentence summary).
+- Weekly reviews: Felix sends Insights screenshots + a few sentences. Fill `learnings/rueckblicke/YYYY-KWxx.md`, read numbers from the screenshots, and promote patterns that repeat across weeks into `learnings/` entries.
+- Fact-check claims before filing in `research/`; correct misremembered findings and note the limits.
 - Never paste copyrighted course material verbatim. Summarize.
 - Commit with a short descriptive message and push to main.

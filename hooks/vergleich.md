@@ -16,5 +16,5 @@
 - "Hyrox-Spezialist vs. normaler Gym-Typ, der läuft."
 - "Gleiche Kraft. Gleiche Stationen. Einer ist 15 Minuten schneller."
 
-| Hook | Post | Views | Hold-Rate | Notiz |
-|---|---|---|---|---|
+## Belegt in
+_Links zu Wochenrückblicken, in denen dieser Hook-Typ aufgefallen ist._

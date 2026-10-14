@@ -17,5 +17,5 @@
 - "Wenn ich in 8 Wochen meinen ersten Hyrox hätte, würde ich genau das machen."
 - "Du musst bei Hyrox nur zwei Dinge können."
 
-| Hook | Post | Views | Hold-Rate | Notiz |
-|---|---|---|---|---|
+## Belegt in
+_Links zu Wochenrückblicken, in denen dieser Hook-Typ aufgefallen ist._

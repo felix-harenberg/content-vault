@@ -2,6 +2,8 @@
 
 Was bei eigenen Posts funktioniert hat und was nicht. Eine Datei pro Learning, Dateiname `YYYY-MM-DD-thema.md`.
 
+Die Zahlen kommen aus den [Wochenrückblicken](rueckblicke/). Wenn ein Muster in mehreren Rückblicken auftaucht, wird daraus ein Learning.
+
 **Status:**
 - `bestätigt` mehrfach beobachtet, mit Zahlen belegt
 - `beobachtet` auf dem eigenen Account gesehen (fehlende Zahlen werden nachgetragen)
@@ -30,6 +32,7 @@ tags: [hook, format, länge, thema, ...]
 ## Index
 
 <!-- Neueste oben -->
+- [Die Mechanik klauen, nicht die Person](2026-10-14-mechanik-klauen-nicht-person.md) · hypothese
 - [Kontroverse und Neugier-Hooks schlagen erklärende](2026-10-14-kontroverse-hooks-schlagen-erklaerende.md) · beobachtet
 - [Karussells im Java/Code-Look funktionieren nicht](2026-10-14-code-aesthetic-karussells.md) · beobachtet
 - [Account-Insights sind bei kleinen Accounts unzuverlässig](2026-10-14-insights-kleiner-accounts-unzuverlaessig.md) · beobachtet

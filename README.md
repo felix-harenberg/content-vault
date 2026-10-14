@@ -20,7 +20,7 @@ Jeder Ordner hat ein eigenes README mit Vorlage und Index.
 ## Regeln
 
 - **Eigene Worte.** Keine kopierten Kursinhalte. Zusammenfassen, einordnen, mit Quelle verlinken.
-- **Belege.** Learnings mit Post-Link und Zahlen (Views, Saves, Shares, Follows). Ohne Daten ist es eine Hypothese, und wird auch so markiert.
+- **Belege.** Zahlen kommen aus wöchentlichen Rückblicken ([`learnings/rueckblicke/`](learnings/rueckblicke/)). Ohne Daten ist es eine Hypothese und wird auch so markiert.
 - **Eine Datei pro Idee.** Lieber viele kleine Dateien als ein riesiges Dokument.
 - **Dateinamen:** `kleinbuchstaben-mit-bindestrichen.md`, Learnings mit Datum vorne: `2026-10-14-thema.md`.
 

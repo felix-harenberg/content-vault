@@ -1,6 +1,6 @@
 # Hooks
 
-Hook-Formeln und konkrete Beispiele. Eine Datei pro Hook-Typ, darin Formeln, Beispiele und eine Tabelle mit echten Ergebnissen.
+Hook-Formeln und konkrete Beispiele. Eine Datei pro Hook-Typ, darin Formeln, Beispiele und Links zu Wochenrückblicken, die den Typ belegen.
 
 ## Vorlage
 
@@ -15,8 +15,8 @@ Hook-Formeln und konkrete Beispiele. Eine Datei pro Hook-Typ, darin Formeln, Bei
 - ...
 
 ## Beispiele
-| Hook | Post | Views | Hold-Rate | Notiz |
-|---|---|---|---|---|
+
+## Belegt in
 ```
 
 ## Index

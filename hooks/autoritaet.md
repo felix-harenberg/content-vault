@@ -14,5 +14,5 @@
 ## Beispiele (Hyrox)
 - "1:27 bei Hyrox. Null spezifisches Stationstraining."
 
-| Hook | Post | Views | Hold-Rate | Notiz |
-|---|---|---|---|---|
+## Belegt in
+_Links zu Wochenrückblicken, in denen dieser Hook-Typ aufgefallen ist._

@@ -21,6 +21,7 @@ Hook-Formeln und konkrete Beispiele. Eine Datei pro Hook-Typ, darin Formeln, Bei
 
 ## Index
 
+- [Aufbau: 6-Wörter-Hook](aufbau-6-woerter.md): Subjekt, Aktion, Zielzustand, Kontrast. Bauanleitung für jeden Hook-Typ
 - [Mythos brechen / Kontroverse](mythos-brechen.md): Mein stärkster Typ, passt direkt zur Hyrox-These
 - [Vergleich](vergleich.md): A gegen B, funktioniert auch ohne Ton
 - [Storytelling](storytelling.md): Offener Spannungsbogen, für Renn-Recaps und Entscheidungen

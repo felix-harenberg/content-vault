@@ -25,5 +25,6 @@ post: <link>
 
 ## Index
 
+- [Framework: Triple Loop](framework-triple-loop.md): Hook, Intensifier und Rehook Loop halten den Viewer bis zum Schluss
 - [Framework: 3-Teile-Skript](framework-3-teile-edukativ.md): Hook, Einwand, Lektion (Punkt, Warum, Beispiel). Eine Sache pro Video
 - [Framework: Brain Damage Explainer](framework-brain-damage-explainer.md): Extrem vereinfachte Hyrox-Erklärungen, max. 5 Wörter pro Satz

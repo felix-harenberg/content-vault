@@ -7,7 +7,7 @@ tags: [inspiration, stil]
 # Die Mechanik klauen, nicht die Person
 
 ## Was ich gemacht habe
-Prinzip übernommen: Gerade die Creator analysieren, die mich nerven.
+Prinzip übernommen: Gerade die Creator analysieren, die mich nerven. Und: Gut performende Videos als Vorlage nehmen und meine eigene Story im gleichen Stil erzählen.
 
 ## Was passiert ist (Zahlen)
 Noch nicht getestet.
@@ -17,6 +17,8 @@ Wenn mich ein Creator nervt, obwohl er erfolgreich ist, funktioniert etwas an se
 
 ## Was ich daraus mache
 Beim Analysieren immer trennen: Was ist die Person, was ist die Mechanik? Nur die Mechanik geht ins Repo (`hooks/`, `scripts/`).
+
+Konkret: Ein virales Video nehmen, Struktur, Schnitt-Tempo und Hook-Aufbau übernehmen, aber Inhalt und Story sind komplett meine.
 
 ## Belege
 - _keine_

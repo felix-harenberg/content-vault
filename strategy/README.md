@@ -4,5 +4,6 @@ Positionierung, Zielgruppe, Persona, Content-Säulen, Ziele. Wenige Dateien, die
 
 ## Index
 
+- [Personal Brand als Athlet](personal-brand-athlet.md): Unique Mechanism, Education/Documentation/Entertainment, Zeitplanung
 - [Positionierung](positionierung.md): These, Seasons, Stil, bewusste Entscheidungen
 - [Rhythmus](rhythmus.md): Frequenz, Batch-Tag, Planung

@@ -4,4 +4,5 @@ Positionierung, Zielgruppe, Persona, Content-Säulen, Ziele. Wenige Dateien, die
 
 ## Index
 
-_Noch keine Einträge._
+- [Positionierung](positionierung.md): These, Seasons, Stil, bewusste Entscheidungen
+- [Rhythmus](rhythmus.md): Frequenz, Batch-Tag, Planung
